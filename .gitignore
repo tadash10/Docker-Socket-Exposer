@@ -1,0 +1,12 @@
+# Ignore virtual environment
+venv/
+
+# Ignore generated log files
+docker_socket_exposer.log
+
+# Ignore any other generated files or build artifacts
+*.pyc
+__pycache__/
+*.egg-info/
+dist/
+build/
